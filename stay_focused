@@ -1,0 +1,7 @@
+#!name=StayFocusd
+#!desc=Block websites and stay focused
+
+[Rule]
+DOMAIN-SUFFIX,bilibili.com,REJECT
+DOMAIN-SUFFIX,hupu.com,REJECT
+DOMAIN-SUFFIX,ithome.com,REJECT
